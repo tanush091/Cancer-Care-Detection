@@ -49,3 +49,10 @@ This project focuses on building an end-to-end machine learning pipeline, from d
 2. Install required libraries:
    ```bash
    pip install -r requirements.txt
+3. Run the Flask app:
+
+   python app.py
+
+4. Open in browser:
+
+   http://127.0.0.1:5000/
